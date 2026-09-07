@@ -176,7 +176,7 @@ If you use this work, please cite:
 ```
 Khanna, S. and Faretta-Stutenberg, M. (2026). Automated Ordinal Scoring for the Spanish Elicited Imitation Task.
 Google Summer of Code 2026, HumanAI Foundation.
-https://github.com/humanai-foundation/SpanishEIT
+https://github.com/humanai-foundation/AutoEIT
 ```
 
 ---
