@@ -40,3 +40,6 @@ logs/
 
 # OS
 .DS_Store
+
+# Local Python virtual environments
+**/.venv/
